@@ -1,0 +1,6 @@
+# Marks down Syntaxes
+
+Introduction: 
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM (Software Code Management) tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+GitHub is an American company that provides hosting for software development version control using Git. It is a subsidiary of Microsoft, which acquired the company in 2018. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. 
+	Software Documentation / Technical Documentation is an important task during the product development so that the users need not to worry about how to use your product. From a very small project to a project with a huge number of developers, technical documentation writing is easy by using ReadTheDocs and Sphinx tools. 
